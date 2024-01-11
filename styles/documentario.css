@@ -11,21 +11,23 @@
 .documentario_img {
     width: 1124px;
     height: 270px;
+    border-radius: 10px;
    
 }
 .documentario img {
-    border: 2px solid #f54952;
+    /* border: 2px solid #f54952; */
+    border-radius: 10px;
     }
 
 .documentario_texto {
     background-color: #D7D7D7;
     border-radius: 5px;
     margin: 7em;
-    border: solid 2px #F54952;
+    /* border: solid 2px #F54952; */
     padding: 2vw;
     text-align: justify;
     font-family: var(--fonte-principal);
-    font-size: 16px;
+    font-size: 24px;
 }
 
 

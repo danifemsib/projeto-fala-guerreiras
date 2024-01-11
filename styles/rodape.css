@@ -10,23 +10,22 @@
     margin-left: 10%;
     margin-right: 10%;
     padding: 5em 0 5em 0;
-
 }
 
 .logomarca{
-    width: 400px;
+    width: 300px;
     object-fit: contain;
-    height: 200px;
+    height: 150px;
 }
 
 .logomarcaobirin {
-    width: 400px;
+    width: 300px;
     object-fit: contain;
-    height: 200px;
+    height: 150px;
 }
 
 .rodape p{
-    font-size: 30px;
+    font-size: 20px;
     font-family: var(--fonte-principal);
     font-weight: bold;
    text-align: center;
