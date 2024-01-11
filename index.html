@@ -1,77 +1,64 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/reset.css" />
+    <link rel="stylesheet" href="./styles/cabecalho.css" />
+    <link rel="stylesheet" href="./styles/rodape.css" />
+    <link rel="stylesheet" href="./styles/home.css" />
+    <link rel="shortcut icon" type="imagex/png" href="./imgs/logoobirin.ico" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Krona+One&family=Montserrat:wght@400;600&family=Poppins:ital,wght@0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./styles/reset.css">
-  <link rel="stylesheet" href="./styles/cabecalho.css" />
-  <link rel="stylesheet" href="./styles/rodape.css" />
-  <link rel="stylesheet" href="./styles/styles.css">
-  <link rel="stylesheet" href="./styles/home.css">
-  
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Krona+One&family=Montserrat:wght@400;600&family=Poppins:ital,wght@0,700;1,400&display=swap"
-    rel="stylesheet">
-  <link rel="shortcut icon" type="imagex/png" href="./imgs/logoobirin.ico" />
-  <title>Fala Guerreira</title>
-</head>
+    <title>Fala Guerreira</title>
+  </head>
 
-<body>
-  
-  <header class="cabecalho_menu">
-    
-    <img class="cabecalho_logo" src="imgs/logofalaguerreira.png" alt="Fala Guerreira">
-    <nav class="menu">
-    <a class="cabecalho_link" href="index.html">HOME</a>
-    <a class="cabecalho_link" href="about.html">SOBRE</a>
-    <a class="cabecalho_link" href="galeria.html">GALERIA</a>
-    <a class="cabecalho_link" href="revistas.html">REVISTAS</a>
-    <a class="cabecalho_link" href="documentario.html">DOCUMENTÁRIO</a>
-    </nav>
-</header>
+  <body>
+    <script src="./js/topo.js"></script>
 
-  
-  <div class="bodyHome">
-    <div id="slideHome" class="alinhamentoAoCentro">
-      <ul>
-        <li>
-          <figure>
-            <img src="imgs/img-fala-guerreira-pb.jpg" alt="Mulheres Fala Guerreira" />
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="imgs/homeimg.jpg" alt="Mulheres Fala Guerreira" />
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="imgs/printC.png" alt="Mulheres Fala Guerreira" />
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="imgs/imghomeimg.jpg" alt="Mulheres Fala Guerreira" />
-          </figure>
-        </li>
-      </ul>
-      <div id="previous"> &laquo; </div>
-      <div id="next"> &raquo; </div>
+    <div class="bodyHome">
+      <div id="slideHome" class="alinhamentoAoCentro">
+        <ul>
+          <li>
+            <figure>
+              <img
+                src="imgs/img-fala-guerreira-pb.jpg"
+                alt="Mulheres Fala Guerreira"
+              />
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="imgs/homeimg.jpg" alt="Mulheres Fala Guerreira" />
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="imgs/printC.png" alt="Mulheres Fala Guerreira" />
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="imgs/imghomeimg.jpg" alt="Mulheres Fala Guerreira" />
+            </figure>
+          </li>
+        </ul>
+        <div id="previous">&laquo;</div>
+        <div id="next">&raquo;</div>
+      </div>
     </div>
-  </div>
 
+    <footer>
+      <div class="rodape">
+        <img src="imgs/logoobirin.ico" alt="Logo Obirin Àtinúnda" />
+      </div>
+    </footer>
 
-  <footer>
-    <div class="rodape">
-      <img src="imgs/logoobirin.ico" alt="Logo Obirin Àtinúnda" />
-    </div>
-  </footer>
-
-  <script src="js/jquery.js"></script>
-  <script src="js/jqueryCycle.js"></script>
-  <script src="js/funcaoSlide.js"></script>
-
-</body>
-
+    <script src="js/jquery.js"></script>
+    <script src="js/jqueryCycle.js"></script>
+    <script src="js/funcaoSlide.js"></script>
+  </body>
 </html>

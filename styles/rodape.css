@@ -1,0 +1,10 @@
+.rodape {
+  padding: 5px;
+  background: white;
+  justify-content: space-around;
+}
+.rodape img {
+  width: 207px;
+  height: 163px;
+  align-self: flex-start;
+}

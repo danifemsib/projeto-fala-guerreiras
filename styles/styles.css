@@ -3,81 +3,19 @@
 @import url("./styles/documentario.css");
 @import url("./styles/home.css");
 @import url("./styles/galeria.css");
+@import url("./cabecalho.css");
 
-:root{
---vermelho-principal: #E84268;
---preto-principal: #000000;
---branco-principal:#ffff;
---fonte-principal: 'Inter', sans-serif;
+:root {
+  --vermelho-principal: #e84268;
+  --preto-principal: #000000;
+  --branco-principal: #ffff;
+  --fonte-principal: "Inter", sans-serif;
 }
-
-/**{
-    margin: 0;
-    padding:0;
-}*/
-
-/*body{
-    display: flex;
-    flex-direction: column;
-    
-}*/
-
-body{
-    display: flex;
-    flex-direction: column;
-    margin: 0;
-    padding: 0;
-  }
-/*.css-geral{
-    margin: 1;
-    padding: 0;
-    height: 50%;
-}*/
-
-.container_about{
-    background-color: #000000;   
-    grid-template-columns:50% 50% ;
-    display: flex;
-    padding: 7em 0 0 20em;
-    align-items:center;
-    justify-content: center;
+* {
+  margin: 0;
+  padding: 0;
 }
-
-.texto p{
-    background-color: #D7D7D7;
-    border-radius: 1px;
-    margin: 7em;
-    border: solid 2px #F54952;
-    padding: 2em;
-    text-align: justify;
-    font-family: var(--fonte-principal);
-    font-size: 25px;
-}
-.revistas{
-    background-color: #000000;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-}
-.revistas img{
-    width: 220px;
-    height: 340px;
-    /* cima direita embaixo esquerda */
-    padding: 10em 2em 10em 2em; 
-    }
-
-.rodape {
-    padding: 5px;
-    background: white;
-    justify-content: space-around;
-  
-}
-.rodape img {
-  width: 207px; 
-  height: 163px; 
-  align-self: flex-start;
-
-}
-
-
+/* body {
+  display: flex;
+  flex-direction: column;
+} */
