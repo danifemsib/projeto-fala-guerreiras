@@ -5,8 +5,8 @@ rodape.setAttribute("class", "rodape");
 body.appendChild(rodape);
 const footer = 
 "<div class='container_imagens'>"+
-"<img class='logomarca' src='./imgs/logo/logomarca.png'/>"+
-"<img class='logomarcaobirin' src='./imgs/logo/logoobirin.png'/>"+
+"<img class='logomarca' src='./imgs/logomarca.png'/>"+
+"<img class='logomarcaobirin' src='./imgs/logoobirin.png'/>"+
 "</div>"+
 "<p>© 2024 Obirin Àtinúdá.. All rights reserved.</p>";
 rodape.innerHTML +=footer;
