@@ -13,7 +13,7 @@ body.prepend(topo);
 
 const logo =
   "<figure id='logo' class='logo'>" +
-  "<img src='./imgs/logomarca.png' title='Logomarca fala guerreira'/>" +
+  "<img src='./imgs/logo/logomarca.png' title='Logomarca fala guerreira'/>" +
   "</figure>";
 topo.innerHTML += logo;
 
@@ -21,7 +21,6 @@ const menu =
 "<meni id='menu' class='menu'>"+
 "<nav>"+
 "<ul>"+
-"<li><a href='./index.html'>HOME</a></li>"+
 "<li><a href='./about.html'>SOBRE</a></li>"+
 "<li><a href='./galeria.html'>GALERIA</a></li>"+
 "<li><a href='./revistas.html'>REVISTAS</a></li>"+

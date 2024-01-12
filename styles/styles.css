@@ -10,7 +10,7 @@
 --vermelho-principal: #E84268;
 --preto-principal: #000000;
 --branco-principal:#ffff;
---fonte-principal: 'Inter', sans-serif;
+--fonte-principal: 'Inter', bold;
 --swiper-theme-color: var(--vermelho-principal);
 }
 

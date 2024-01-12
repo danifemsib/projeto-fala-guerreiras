@@ -1,15 +1,30 @@
 .container_about{
     background-color: #000000;   
-    grid-template-columns:50% 50% ;
     display: flex;
-    padding: 7em 0 0 20em;
+    padding: 5em 0 0 5em;
     align-items:center;
-    justify-content: center;
+    justify-content: space-around;
     border-radius: 10px;
 }
+.memoria{
+    font-size: 36px;
+      font-family:"Inter";
+      font-weight: bold;
+     text-align: center;
+     margin-top: 1%;
+     margin-bottom: 1%;
+     text-transform:uppercase;
+}
 
+.feminismoperi{
+    font-size: 30px;
+      font-family:"Inter";
+     text-align: center ;
+     margin-top: 1%;
+     margin-bottom: 1%;
+     text-transform:uppercase;
+}
 .container_about_img{
-/* border: 2px solid #f54952; */
 border-radius: 10px;
 }
 
@@ -17,16 +32,95 @@ border-radius: 10px;
 background-color: #D7D7D7;
 width: 100%;
 padding: 2em;
-margin:0.5em 5em 2em 0;
+margin:0.5em 5em 5em 0;
 border-radius: 5px;
-/* border: 2px solid #f54952; */
 align-items:center;
 justify-content: center;
 border-radius: 10px;
 
 }
 .container_texto p{
-    font-size: 24px;
+    font-size: 36px;
     font-family: "Inter";
     text-align: justify;
 }
+
+.quemsomos{
+    font-size: 36px;
+      font-family: "Inter";
+      /* font-weight: bold; */
+     text-align: center;
+     margin-top: 1%;
+     margin-bottom: 1%;
+     text-transform:uppercase;
+}
+/* #slideHome { 
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+  margin: 0%;
+  overflow: hidden;
+  display: flex;
+} 
+
+picture img {
+  display: flex;
+  align-content: center;
+  border-radius: 10px;
+  float: left;
+  margin-top: 0%;
+
+} */
+
+    /* .bodyHome {
+    height: 100vh;
+    background-color: var(--preto-principal);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  #slideHome img{
+    width: 700px;
+    height: 700px;
+  }
+  
+
+  
+
+  
+  #previous,
+  #next {
+    position: absolute;
+    width: 35px;
+    height: 300px;
+    z-index: 970;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 3.2em;
+    float: left;
+    margin-top: 350px;
+    color: var(--vermelho-principal);
+  }
+  
+  #previous {
+    margin-left: 80px;
+  }
+  
+  #next {
+    margin-left: 1800px;
+  }
+  
+  #previous:hover,
+  #next:hover {
+    cursor: pointer;
+    transition: 1.5s;
+  }
+  
+  #radio1:checked ~ .first {
+    margin-left: 0;
+  }
+  #radio1:checked ~ .first {
+    margin-left: -25%;
+  }  */
+  

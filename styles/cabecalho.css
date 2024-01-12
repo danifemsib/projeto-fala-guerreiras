@@ -32,7 +32,7 @@ nav ul li a{
   color:var(--preto-principal);
   padding:0 2em 0 2em;
   font-size: 25px;
-  font-family: var(--fonte-principal);
+  font-family: "Inter";
   text-transform:uppercase;
   display
 }

@@ -26,31 +26,4 @@ body
   > span.swiper-pagination-bullet.swiper-pagination-bullet-active {
   background-color: var(--vermelho-principal);
 }
-
-.card {
-  background-color: var(--cor-branca);
-  box-shadow: 0px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 10px;
-  margin: 1em;
-  padding: 1em;
-}
-
-.card__descricao {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 0.5em;
-}
-.card__botoes {
-  display: flex;
-  justify-content: space-between;
-}
-
-/* @media  screen (max-width:140px) { */
-
-  .rodape {
-    padding: 5px;
-    background: white;
-    justify-content: space-around;
-  
-}
-}
+ 
