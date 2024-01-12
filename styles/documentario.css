@@ -1,34 +1,39 @@
-
-
 .documentario {
     background-color: #000000;
     display: flex;
-    padding: 7em 0 0 20em;
+    padding: 1em;
     align-items: center;
     justify-content: center;
 }
 
 .documentario_img {
-    width: 1124px;
-    height: 270px;
     border-radius: 10px;
+    align-items: center;
+    justify-content: center;
    
 }
-.documentario img {
-    /* border: 2px solid #f54952; */
+.documentario_img_youtube {
     border-radius: 10px;
-    }
-
+    align-items: center;
+    justify-content: center;
+   
+}
 .documentario_texto {
     background-color: #D7D7D7;
     border-radius: 5px;
-    margin: 7em;
+    margin: 1em 0 0 1em;
     /* border: solid 2px #F54952; */
     padding: 2vw;
     text-align: justify;
     font-family: var(--fonte-principal);
     font-size: 24px;
 }
+
+.documentario_texto_p{
+    text-align: center;
+    font-weight: bold;
+}
+
 
 
 
