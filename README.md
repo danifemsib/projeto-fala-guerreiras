@@ -19,7 +19,7 @@
 
 # Descrição do Projeto
 
-O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres guerreiras da periferia possam deixar sua história eternizada no ambiente virtual. Através das revistas disponibilizadas para download no site. Compreendendo a importância da democratização do acesso à cultura. Registrando o arquivo cultural histórico. Buscando impacto social. Cuidado com a memória cultural periférica. E o mais importante dar visibilidade ao potencial criativo de mulheres da periferia de São Paulo!
+O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres periféricas possam deixar sua história eternizada no ambiente virtual. Através das revistas disponibilizadas para download no site. Compreendendo a importância da democratização do acesso à cultura. Registrando o arquivo cultural histórico. Buscando impacto social. Cuidado com a memória cultural periférica. E o mais importante dar visibilidade ao potencial criativo de mulheres da periferia de São Paulo!
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
@@ -27,10 +27,10 @@ O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres gue
 
 # 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1`: A página inicial é a Home. Nela você encontrará um banner das mulheres que já contribuíram com suas histórias. Poderá também navegar pela navBar e explorar as demais páginas (sobre, galeria,revistas e documentário). Abaixo terá o footer com os nossos colaboradores e nossos contatos para possível contribuição.
-- `Funcionalidade 2`: Na página da galeria terá ...
-- `Funcionalidade 3`: Na página revista terá as memórias compactadas em um arquivo disponibilizado para download. Apertando no botão para download poderá possuir a revista de sua escolha.
-- `Funcionalidade 4`: Na página documentário temos um curta metragem mostrando a luta da guerreira periférica.É um arquivo em vídeo podendo ser acessado apertando no botão play.
+- `Funcionalidade 1`: A página inicial é a Sobre. Nela você encontrará a história da Coletiva FALA GUERREIRA e sobre as integrantes do Projeto Oririn Atinundá. Poderá também navegar pela navBar e explorar as demais páginas (sobre, galeria,revistas e documentário). Abaixo terá o footer com as nossas logos.
+- `Funcionalidade 2`: Na página da galeria terá um pouco dos registros feitos pelas participantes da FALA GUERREIRA (ainda em construção).
+- `Funcionalidade 3`: Na página Revistas, ficam os arquivos das 6 revistas para download. Apenas clicando diretamente em cada revista, você poderá baixar cada uma delas.
+- `Funcionalidade 4`: Na página "Documentário" temos uma explicação sobre o documentário, a capa do documentário e ao clicar no play é direcionado para o link no youtube. 
 
 # Acesso ao Projeto
 
@@ -39,7 +39,7 @@ O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres gue
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `Javascript`
-- `Visual Studi Code`
+- `Visual Studio Code`
 - `HTML`
 - `CSS`
 
