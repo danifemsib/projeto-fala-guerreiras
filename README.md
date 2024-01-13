@@ -1,4 +1,4 @@
- ![logo do projeto](imgs/logo/logoobirin.png)
+ ![logo do projeto](./imgs/logoobirin.png)
 
 
 <p align="center">
