@@ -21,7 +21,7 @@ const menu =
 "<meni id='menu' class='menu'>"+
 "<nav>"+
 "<ul>"+
-"<li><a href='./about.html'>SOBRE</a></li>"+
+"<li><a href='./index.html'>SOBRE</a></li>"+
 "<li><a href='./galeria.html'>GALERIA</a></li>"+
 "<li><a href='./revistas.html'>REVISTAS</a></li>"+
 "<li><a href='./documentario.html'>DOCUMENTÁRIO</a></li>"+
