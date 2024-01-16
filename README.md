@@ -42,7 +42,7 @@ O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres per
 - `Visual Studio Code`
 - `HTML`
 - `CSS`
--`Metodologias ágeis`
+- `Metodologias ágeis`
 - `GitHub`
 
 
