@@ -30,7 +30,7 @@ O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres per
 - `Funcionalidade 1`: A página inicial é a Sobre. Nela você encontrará a história da Coletiva FALA GUERREIRA e sobre as integrantes do Projeto Oririn Atinundá. Poderá também navegar pela navBar e explorar as demais páginas (sobre, galeria,revistas e documentário). Abaixo terá o footer com as nossas logos.
 - `Funcionalidade 2`: Na página da galeria terá um pouco dos registros feitos pelas participantes da FALA GUERREIRA (ainda em construção).
 - `Funcionalidade 3`: Na página Revistas, ficam os arquivos das 6 revistas para download. Apenas clicando diretamente em cada revista, você poderá baixar cada uma delas.
-- `Funcionalidade 4`: Na página "Documentário" temos uma explicação sobre o documentário, a capa do documentário e ao clicar no play é direcionado para o link no youtube. 
+- `Funcionalidade 4`: Na página "Documentário" temos uma explicação sobre o documentário bem como o mesmo incorporado a página.
 
 # Acesso ao Projeto
 
@@ -42,6 +42,9 @@ O projeto baseia-se em um espaço acolhedor e inclusivo para que as mulheres per
 - `Visual Studio Code`
 - `HTML`
 - `CSS`
+-`Metodologias ágeis`
+- `GitHub`
+
 
 # Autores
 
